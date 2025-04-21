@@ -1,33 +1,51 @@
-# dotcommander
-
-Welcome to the **dotcommander** GitHub organization!
-
-## About
-
-dotcommander is a collective of open source projects, tools, and libraries focused on developer productivity, automation, and configuration management. Our mission is to empower developers and teams to manage their environments, dotfiles, and workflows with ease and confidence.
-
-## Projects
-
-- **[dotcommander](https://github.com/dotcommander/dotcommander)**: The flagship tool for managing dotfiles and configuration across multiple machines.
-- **[dotcommander-plugins](https://github.com/dotcommander/dotcommander-plugins)**: A collection of plugins and extensions for dotcommander.
-- **[dotcommander-docs](https://github.com/dotcommander/dotcommander-docs)**: Documentation, guides, and best practices for using dotcommander tools.
-
-## Get Involved
-
-We welcome contributions from everyone! Whether you want to report a bug, request a feature, or submit a pull request, check out the individual repositories for contribution guidelines.
-
-- [Open an issue](https://github.com/dotcommander/dotcommander/issues)
-- [Submit a pull request](https://github.com/dotcommander/dotcommander/pulls)
-- [Join the discussion](https://github.com/orgs/dotcommander/discussions)
-
-## Code of Conduct
-
-We are committed to fostering a welcoming and inclusive community. Please read our [Code of Conduct](https://github.com/dotcommander/.github/blob/main/CODE_OF_CONDUCT.md) before participating.
-
-## License
-
-All projects under the dotcommander organization are open source and licensed under the [MIT License](https://github.com/dotcommander/dotcommander/blob/main/LICENSE), unless otherwise specified.
+Perfect. Here's the updated README with the proper logo link embedded, aligned, and clean:
 
 ---
 
-*Happy hacking!*
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/208504030?s=400&u=f7d63eb56ca2a17ed375cf433b187decc7641640&v=4" alt="dotcommander logo" width="120" />
+  <h1>dotcommander</h1>
+  <p><strong>Command your tools. Command your knowledge. Command your dotfiles.</strong></p>
+  <p><em>Elegant automation for developers who think in config, code, and context.</em></p>
+</div>
+
+---
+
+## 🧠 About
+
+**dotcommander** is a suite of open-source tools for developers who want full control over their environments, workflows, and information. Whether you're bootstrapping a dev machine or querying your own personal RAG-powered second brain, this is your command center.
+
+> ⚡ Minimal dependencies. 🧩 Maximum extensibility. 🧠 Designed for thinking users.
+
+---
+
+## 🛠️ Core Projects
+
+| Project | Description |
+|--------|-------------|
+| [`dotcommander`](https://github.com/dotcommander/dotcommander) | Manage dotfiles, bootstrap environments, and sync config across systems with one elegant CLI. |
+| [`mimir`](https://github.com/dotcommander/mimir) | AI-powered knowledge base in pure Go. Ingest anything. Query everything. Think faster. |
+| [`conventions`](https://github.com/dotcommander/conventions) | Shared standards for dot-commands like `.steps`, `.bullet`, `.explain`, used across projects and docs. |
+
+---
+
+## 🔧 Philosophy & Conventions
+
+- **dot-commands**: Enhance docs and interfaces using conventions like:
+  - `.steps` – turn content into actionable sequences  
+  - `.bullet` – convert lists into punchy summaries  
+  - `.explain` – clarify code or logic like you’re teaching it  
+  - `.feynman`, `.timeline`, `.storycircle` — for deeper structure and creative framing  
+
+- **Design Principles**:
+  - ✅ Text-first  
+  - ✅ Extensible CLI > GUI  
+  - ✅ AI as augmentation, not automation
+
+---
+
+> 💡 *Tools that work like you think. That’s the dotcommander way.*
+
+---
+
+Want a dark mode alt version? Or a stylized badge footer with ASCII flair or a ThinkPad-esque tagline? I can give this a little more attitude if you want to lean more into the "hacker tools for thinkers" vibe.
