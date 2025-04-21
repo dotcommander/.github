@@ -19,7 +19,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [`dotcommander`](https://github.com/dotcommander/dotcommander) | Manage dotfiles, bootstrap environments, and sync config across systems with one elegant CLI. |
+| [`dotcommander`](https://github.com/dotcommander) | Manage dotfiles, bootstrap environments, and sync config across systems with one elegant CLI. |
 | [`mimir`](https://github.com/dotcommander/mimir) | AI-powered knowledge base in pure Go. Ingest anything. Query everything. Think faster. |
 | [`conventions`](https://github.com/dotcommander/conventions) | Shared standards for dot-commands like `.steps`, `.bullet`, `.explain`, used across projects and docs. |
 
