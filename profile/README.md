@@ -1,43 +1,33 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/208504030?s=400&u=f7d63eb56ca2a17ed375cf433b187decc7641640&v=4" alt="dotcommander logo" width="120" />
-  <h1>dotcommander</h1>
-  <p><strong>Command your tools. Command your knowledge. Command your dotfiles.</strong></p>
-  <p><em>Elegant automation for developers who think in config, code, and context.</em></p>
-</div>
+```
+ ┌──────────────────────────────────────────────┐
+ │  dotcommander                                │
+ │  go cli tools for ai-native workflows        │
+ └──────────────────────────────────────────────┘
+```
+
+```
+$ whoami
+> go developer. cli toolmaker. claude code ecosystem contributor.
+> building the command layer between humans and llms.
+```
 
 ---
 
-## 🧠 About
+### repos
 
-**dotcommander** is a suite of open-source tools for developers who want full control over their environments, workflows, and information. Whether you're bootstrapping a dev machine or querying your own personal RAG-powered second brain, this is your command center.
-
-> ⚡ Minimal dependencies. 🧩 Maximum extensibility. 🧠 Designed for thinking users.
-
----
-
-## 🛠️ Core Projects
-
-| Project | Description |
-|--------|-------------|
-| [`dotcommander`](https://github.com/dotcommander) | Manage dotfiles, bootstrap environments, and sync config across systems with one elegant CLI. |
-| [`mimir`](https://github.com/dotcommander/mimir) | AI-powered knowledge base in pure Go. Ingest anything. Query everything. Think faster. |
-| [`conventions`](https://github.com/dotcommander/conventions) | Shared standards for dot-commands like `.steps`, `.bullet`, `.explain`, used across projects and docs. |
+| | what it does |
+|---|---|
+| [**cclint**](https://github.com/dotcommander/cclint) | linter for claude code agents, commands, and skills |
+| [**yai**](https://github.com/dotcommander/yai) | pipe anything through an llm from your terminal |
+| [**vybe**](https://github.com/dotcommander/vybe) | persistent task management and crash recovery for ai agents |
+| [**gokart**](https://github.com/dotcommander/gokart) | opinionated go service toolkit — chi, pgx, redis, viper, cobra |
+| [**agent-sdk-go**](https://github.com/dotcommander/agent-sdk-go) | go sdk for the claude agent api |
+| [**syn**](https://github.com/dotcommander/syn) | cli for synthetic.new — chat, search, vision |
+| [**zai**](https://github.com/dotcommander/zai) | cli for z.ai |
 
 ---
 
-## 🔧 Philosophy & Conventions
-
-- **dot-commands**: Enhance docs and interfaces using conventions like:
-  - `.steps` – turn content into actionable sequences
-  - `.bullet` – convert lists into punchy summaries
-  - `.explain` – clarify code or logic like you’re teaching it
-  - `.feynman`, `.timeline`, `.storycircle` — for deeper structure and creative framing
-
-- **Design Principles**:
-  - ✅ Text-first
-  - ✅ Extensible CLI > GUI
-  - ✅ AI as augmentation, not automation
-
----
-
-> 💡 *Tools that work like you think. That’s the dotcommander way.*
+```
+$ stack
+> go · claude code · terminal-first · unix philosophy
+```
